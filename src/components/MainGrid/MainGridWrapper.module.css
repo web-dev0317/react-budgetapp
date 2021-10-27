@@ -1,0 +1,18 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: minmax(250px, auto);
+  grid-gap: 10px;
+  margin-top: 10px;
+}
+
+@media screen and (min-width: 740px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.grid div {
+  background-color: #111;
+  border-radius: 6px;
+}

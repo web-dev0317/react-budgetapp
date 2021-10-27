@@ -1,0 +1,6 @@
+.expense-container {
+  width: 90%;
+  margin: 10px auto;
+  height: 320px;
+  overflow-y: auto;
+}

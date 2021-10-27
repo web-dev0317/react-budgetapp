@@ -1,0 +1,25 @@
+.expense-form-input {
+  color: #fff;
+}
+
+.form-table {
+  border-bottom: none;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.form-table tbody tr td {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.select {
+  background-color: #000;
+  color: white;
+  border: none;
+  margin-bottom: 8px;
+}
+
+.expense-submit {
+  text-align: center;
+}

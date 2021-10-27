@@ -1,0 +1,14 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 20px;
+  text-align: center;
+}
+
+.negative {
+  color: #c74936;
+}
+
+.positive {
+  color: green;
+}

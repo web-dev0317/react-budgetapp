@@ -1,0 +1,23 @@
+.budget-history {
+  padding: 10px;
+  text-align: center;
+}
+
+.table {
+  width: 90%;
+  margin: auto;
+}
+
+.table th,
+.table td {
+  text-align: center;
+}
+
+.table tr {
+  border-bottom: 1px solid #222;
+}
+
+.table-container {
+  height: 310px;
+  overflow-y: auto;
+}

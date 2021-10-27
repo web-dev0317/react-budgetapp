@@ -1,0 +1,21 @@
+.iname {
+  font-weight: bolder;
+  margin: 5px;
+}
+
+.price {
+  background-color: #cf0e0e;
+  border: 1px solid #cf0e0e;
+}
+
+.type {
+  background-color: rgb(60, 50, 146);
+  border: 1px solid rgb(60, 50, 146);
+}
+
+.inline-block {
+  border-radius: 16px;
+  margin: 5px;
+  padding: 5px;
+  display: inline-block;
+}
